@@ -1,1 +1,1 @@
-# Password Generator Starter Code
+This was a great starter project to practice and learn some javascript basics. Here I will be creating a an application in which people can use to generate a ramdomized password. Using HTML, CSS, and JavaScript, i will assure a responsive user interface which adapts to multiple screen sizes.
